@@ -4,4 +4,6 @@ title: About
 permalink: /about/
 ---
 
-TODO
+Under construction.
+
+[source code](https://github.com/brb/vagabonds)
