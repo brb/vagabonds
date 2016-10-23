@@ -7,7 +7,7 @@ tags:
 
 This year during Christmas we paid just a couple days visit to Lithuania. Barely enough to collect the presents from beneath the Christmas trees. A day in Kaunas, a day in Vilnius and off we fly again! This time to Barcelona for a week long rock trip. A rental car and almost no planning in advance worked out remarkably well.
 
-{% include img p="2-small.jpg" u="2.jpg" t="Oliana" %}
+{% include img p="2.jpg" u="2.jpg" t="Oliana" %}
 <!--break-->
 
 We reached Oliana quite late at the night of the Boxing day which meant that no camping was working. We had a list of three campings and all of them seemed to be closed. That doesn't ruin everything however if you have a car! We thought quite optimistically. In the morning we changed our minds - it was quite cold actually. Some coffee and loads of motivation fixed that and early afternoon we were already clipping the draws.

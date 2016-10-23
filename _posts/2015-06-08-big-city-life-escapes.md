@@ -11,7 +11,7 @@ author: Laura
 
 It's been 8 months since I moved to London and I'm still learning big city life. I'm not a very keen learner I should admit though. The more I learn, the more I understand that for me personally living in a city is only possible if I find a way to escape it from time to time.
 
-{% include img p="0-small.jpg" u="0.jpg" t="Martynas on Pichenibule" %}
+{% include img p="0.jpg" u="0.jpg" t="Martynas on Pichenibule" %}
 <!--break-->
 
 From my previous experiences of moving to new places I know that integration takes time. Thus, one should never make judgements too fast. I almost did. First half year was quite hard. A month in a hotel in SF, a month in "kind of hotel" in London. After that even having your own room seems like a luxury. No matter that the room is in a flat that you share with 5 other people.

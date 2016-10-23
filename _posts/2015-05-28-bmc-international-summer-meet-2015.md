@@ -8,7 +8,7 @@ It all started when Martynas forwarded me an email from Lithuanian Alpine Associ
 
 And so I applied. Not really thinking about how many days off I can take or seriously planning anything ahead. But then I got accepted. And then after a couple days of UK trad practice in Pembroke that I managed to squeeze in on weekends, I got on a train to Manchester.
 
-{% include img p="0-small.jpg" u="0.jpg" t="Last Tango in Paris in Slate " %}
+{% include img p="0.jpg" u="0.jpg" t="Last Tango in Paris in Slate " %}
 <!--break-->
 
 The week in a meet went really fast. First of all, I learned loads. I got an opportunity to climb with much more experienced people who are open-handedly willing to share what they know. Secondly, I met lots of interesting people living different lifestyles, coming from different parts of the world but all sharing the same passion. Thirdly, from the practical point of view I looked around a wide spectrum of vans :) And last but not the least, I had loads of fun and climbed heaps of wonderful routes!

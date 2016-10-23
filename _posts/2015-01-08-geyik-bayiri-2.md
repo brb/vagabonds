@@ -8,7 +8,7 @@ I started the trip on the Christmas Eve at the Heathrow airport. Fortunately, th
 
 After the three flights during the night when you are supposed to hear the animals talking I was met at the Antalya airport by Martynas and the Peak Guesthouses camping lady with the car at 8am in the morning. 40min transfer to the camping and the rocks are 50m away. You can almost belay from your bungallow (only if you have an 80m rope as suggested to Frieder by some very smart girl).
 
-{% include img p="8-small.jpg" u="8.jpg" t="Laura on Müren 7a+ or b" %}
+{% include img p="8.jpg" u="8.jpg" t="Laura on Müren 7a+ or b" %}
 <!--break-->
 
 And so the first greetings with Aistė and Povilas, breakfast and off we go to the rocks! We spent the first day in Posseidon and Ottoman - the sectors very close to where we stayed. First day is for the 6c's. The more you do, the better it is tomorrow. That is my secret (not so secret any more :) rule! It was a very nice day - T-shirt and shorts day! And we even forgot that it's Christmas.
