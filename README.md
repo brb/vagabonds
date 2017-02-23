@@ -2,4 +2,5 @@
 
 _my best vacation is your worst nightmare._
 
-climbing blog of @brb and @laurita: http://vagabonds.lambda.lt
+climbing blog of [Martynas](https://twitter.com/martyns) and
+[Laura](https://twitter.com/eigenlaura): http://vagabonds.lambda.lt
