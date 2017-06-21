@@ -7,7 +7,7 @@ tags: vanlife
 
 And so, here we are, on the road, living in a van, traveling wherever we want, stopping whenever we find it appealing. After 7 years of dreaming about it we are actually doing it. The initial idea about what such a trip should look like that we had 7 years ago was completely different from what we now think it will be. And yet, it still involves living without many of the things we use every day not even thinking about it but at the same time also without most of the daily stresses. It still has very limited access to the internet but limitless access to the nature. And this is what we are choosing, deliberately and without second thoughts!
 
-{% include img p="1-small.jpg" u="1.jpg" t="Our home for a while" %}
+{% include img p="1.jpg" u="1.jpg" t="Our home for a while" %}
 <!--break-->
 
 We have no detailed plans when and where we will be and what we will do. However, we have ideas of what we would like to achieve and which places we would like to visit. Apart from that, we will just go with the flow and see what it gives us. So follow our blog if interested.
