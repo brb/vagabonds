@@ -33,7 +33,7 @@ Finale Ligure was too good to stay for long and we didn't want to let ourselves 
 {% include img p="9-small.JPG" u="9.JPG" t="Grotta dell'Edera" %}
 {% include img p="10-small.JPG" u="10.JPG" t="Clipping draws for Lubna (in the background)" %}
 {% include img p="11-small.JPG" u="11.JPG" t="Window in Grotta dell'Eedera" %}
-{% include img p="13-small.JPG" u="13.JPG" t="Martynas on Le Mie Fragole" %}
+{% include img p="13-small.jpg" u="13.jpg" t="Martynas on Le Mie Fragole" %}
 {% include img p="14-small.JPG" u="14.JPG" t="Me on Ciclone" %}
 {% include img p="15-small.JPG" u="15.JPG" t="Our moka pot is fixed!" %}
 
