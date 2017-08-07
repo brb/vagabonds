@@ -46,3 +46,4 @@ Finale Ligure was too good to stay for long and we didn't want to let ourselves 
 {% include img p="21-small.jpg" u="21.jpg" t="One of the places we've stayed at" %}
 {% include img p="22-small.jpg" u="22.jpg" t="Everyday lunch" %}
 {% include img p="23-small.jpg" u="23.jpg" t="Bye bye Finale" %}
+
