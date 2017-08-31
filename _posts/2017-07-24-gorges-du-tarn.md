@@ -16,7 +16,7 @@ Morning dive into the river followed by a cup of coffee and Lindt chocolate with
 
 Both Martynas and me had a project route in Gorges du Tarn. Martynas chose Omar m'a tué, 7b, and I picked Vague à l'âme, 7c, both in Planete Causse sector. Luckily, I managed to unlock hard climbing of the trip and did it. Whereas Martynas was clearly eating too many cookies and concentrating more on making a video documentary. As a result, we will have to come back for him to finish the route. Although, he managed to send a very technical 7a+ for which he even gave a new name - Simple Life (it is actually called Self Control).
 
-I'm not going to bore you with the praises about how amazing Tarn is but we are definitely going back. And it seems to happen very soon. I have to be stronger and braver to be able to try Pyromania, a route in Tennessee sector rated 7c+, 40m of pure beauty.
+I'm not going to bore you with the praises about how amazing Tarn is but we are definitely going back. And it seems to happen very soon. I have to be stronger and braver to be able to try Pyromania, a route in Tennessee sector rated 7c+, 50m of pure beauty.
 
 {% include img p="2-small.jpg" u="2.jpg" t="Home for a couple of weeks" %}
 {% include img p="3-small.jpg" u="3.jpg" t="Old houses" %}
