@@ -4,7 +4,7 @@ title: Love my dogz
 author: Martynas
 ---
 
-Praeitų metų spalį su Laura [lipome Re Artu](http://vagabonds.lambda.lt/2011/10/16/re-artu-dolomites.html) ant Lastoni di Formin. Šalia mūsiškio maršruto ėjo labai graži linija, pavadinta [Love My Dogs](http://www.planetmountain.com/rock/vie/itinerari/scheda.php?lang=ita&id_itinerario=425&id_tipologia=38) (9 virvės, 300m, 6c+/7a). Abu nusprendėm, kad būtinai grįšim ir pralipsim ją. Dėl sniego, šaltų orų, paskui sugedusios mašinos teko laukti ilgai - iki šio pirmadienio, kada susipakavome daiktus ir išvarėme vakare į Dolomitus prie Passo Giau su planu ryte lipti.
+Praeitų metų spalį su Laura [lipome Re Artu](http://www.vagabonds.lt/2011/10/16/re-artu-dolomites.html) ant Lastoni di Formin. Šalia mūsiškio maršruto ėjo labai graži linija, pavadinta [Love My Dogs](http://www.planetmountain.com/rock/vie/itinerari/scheda.php?lang=ita&id_itinerario=425&id_tipologia=38) (9 virvės, 300m, 6c+/7a). Abu nusprendėm, kad būtinai grįšim ir pralipsim ją. Dėl sniego, šaltų orų, paskui sugedusios mašinos teko laukti ilgai - iki šio pirmadienio, kada susipakavome daiktus ir išvarėme vakare į Dolomitus prie Passo Giau su planu ryte lipti.
 
 {% include img p="5-small.jpg" u="5.jpg" t="" %}
 <!--break-->

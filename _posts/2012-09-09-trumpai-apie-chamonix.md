@@ -4,7 +4,7 @@ title: Trumpai apie Chamonix
 author: Martynas
 ---
 
-Su Laura jau ilgai kurėm planą, kaip šią vasarą lipsim Chamonix. Pagal pirminę idėją turėjome važiuoti liepos mėnesį, tačiau dėl [nelemto akmens](http://vagabonds.lambda.lt/2012/06/27/love-my-dogz.html) kelionę teko atidėti į rugpjūčio pabaigą.
+Su Laura jau ilgai kurėm planą, kaip šią vasarą lipsim Chamonix. Pagal pirminę idėją turėjome važiuoti liepos mėnesį, tačiau dėl [nelemto akmens](http://www.vagabonds.lt/2012/06/27/love-my-dogz.html) kelionę teko atidėti į rugpjūčio pabaigą.
 
 Iš Lietuvos pajudėjom su didele dėže įrangos ir turbūt dar didesniu ticklist'u (maršrutų, kuriuos norime pralipti, sąrašu), bet po atvykimo kitą dieną, pirmadienį, mus pasitiko po visą miestelį iškabinėti plakatai, įspėjantys laipiotojus, dėl neįprastai aukštų temperatūrų ir padidėjusios rizikos ant maršrutų (krentantys akmenys and shit) prieš lipant susisiekti su OHM, kur mus nuliūdino, kad daugelis mūsų suplanuotų maršrutų ar prisitraukimai prie jų yra "under bad conditions".
 

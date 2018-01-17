@@ -4,7 +4,7 @@ title: Rehabilitation on Alhambra in Ponte Brolla, Locarno
 author: Laura
 ---
 
-The decision was pending for quite a while and now it is done - [Vagabundos](http://vagabonds.lambda.lt/) goes international! :) From now on we'll blog in English. Sorry all moms and dads, it's time to improve your English.
+The decision was pending for quite a while and now it is done - [Vagabundos](http://www.vagabonds.lt/) goes international! :) From now on we'll blog in English. Sorry all moms and dads, it's time to improve your English.
 
 I spent the last three months at [Hacker School](https://www.hackerschool.com/) in New York which implies long hours of programming and very little training (at least in my case). Furthermore, probably the first time (more likely second or third) I went to [Brooklyn Boulders](http://www.brooklynboulders.com/) - a bouldering gym in New York -  I hurt my finger which is still not ok. So it is another reason of not climbing for such a long time. And the finger doctor is on my todo list. But for now - active rehabilitation :)
 
