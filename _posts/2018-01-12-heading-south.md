@@ -3,6 +3,7 @@ layout: post
 title:  Heading South
 author: Martynas
 tags: bomzhlife sport catalunya spain
+image: siurana-10.jpg
 ---
 
 After enjoying tough Easter European climbing in Osp, we went back home for a

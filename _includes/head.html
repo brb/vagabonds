@@ -9,7 +9,13 @@
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
-  <meta property="og:image" content="http://vagabonds.lambda.lt/images/logo.png"/>
+  <meta property="og:image" content="{{ site.url }}/images/logo.png"/>
+  {% if page.image %}
+  {% capture blog_path %}{{ page.url | replace_first: '/', '' | replace: '/', '-' | replace: '.html', '' }}{% endcapture %}
+  <meta name="twitter:card"  content="summary_large_image">
+  <meta name="twitter:title" content="{{ page.title }}" />
+  <meta name="twitter:image" content="{{ site.url }}/images/{{ blog_path }}/{{ page.image }}">
+  {% endif %}
 
   <link rel="stylesheet" href="/static/magnific-popup.css">
   <script src="/static/jquery.min.js"></script>
