@@ -7,7 +7,7 @@ image: monstant-3.jpg
 ---
 
 _Boy, oh boy! Everyone was pulling from this pocket: Wolfgang Güllich,
-Catherine Destivelle, Jerry Moffat, Linn Hill. Everyone. It's getting a bit run-out.
+Catherine Destivelle, Jerry Moffat, Lynn Hill. Everyone. It's getting a bit run-out.
 Amm, run-out, a bit higher and now it's RUN-OUT. Sun is shinning, and I'm
 contemplating a next move to ... amm, a sloper._
 
