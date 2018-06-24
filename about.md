@@ -6,8 +6,8 @@ permalink: /about/
 
 Namaste!
 
-This is a web page of [Laura](https://twitter.com/eigenlaura) and
-[Martynas](https://twitter.com/martyns) documenting their mostly vertical adventures.
+This is a web page of [Laura](http://laura.lambda.lt) and [Martynas](http://lambda.lt)
+documenting their vertical adventures.
 
 <br>
 <div class="image-wrapper">
