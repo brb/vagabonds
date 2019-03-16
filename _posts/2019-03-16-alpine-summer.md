@@ -92,7 +92,7 @@ August 12, 2018. The plan is now more ambitious and we turn our attention to Dir
 {% include img p="pedro-2-small.jpg" u="pedro-2.jpg" t="Pedro Polar" %}
 {% include img p="pedro-3-small.jpg" u="pedro-3.jpg" t="On top of Pedro Polar" %}
 {% include img p="pedro-4-small.jpg" u="pedro-4.jpg" t="Summit selfie" %}
-{% include img p="pedro-5-small.jpg" u="pedro-5.jpg" t="Envers hut from above" %}
+{% include img p="pedro-55-small.jpg" u="pedro-55.jpg" t="Envers hut from above" %}
 {% include img p="pedro-6-small.jpg" u="pedro-6.jpg" t="Worn out hands" %}
 
 Next day is short as we have to catch the train down. We decide to do something short and quick. Le Piège on Tour Verte it is. Today Martynas is keen which is good as I am tired after yesterday. We rush to the top, rush down, eat, pack and hike down. We feel a bit sentimental at this point but at the same time determined to work hard to create a lifestyle that allows us to be in the mountains more.
