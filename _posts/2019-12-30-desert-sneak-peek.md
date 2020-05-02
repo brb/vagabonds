@@ -75,7 +75,7 @@ We had less than a week left so started moving back southwest. On the way, we st
 {% include img p="zion-small.jpg" u="zion.jpg" t="Zion National Park" %}
 {% include img p="sleeping-small.jpg" u="sleeping.jpg" t="Sleeping in a car" %}
 {% include img p="red_rocks_m-small.jpg" u="red_rocks_m.jpg" t="Sport climbing in Red Rocks" %}
-{% include img p="unimpeacheable_m_3-small.jpg" u="unimpeacheable-m_3.jpg" t="On Unimpeachable Groping" %}
+{% include img p="unimpeacheable_m_3-small.jpg" u="unimpeacheable_m_3.jpg" t="On Unimpeachable Groping" %}
 
 
 We clipped some more bolts the next day and headed further back. We paid a visit to the Death Valley and imagined the people suffering while running Badwater. The last day we had Impossible burgers in some hipster place in LA, walked around in the Venice beach observing the people roller skating, doing tricks in the skatepark and enjoying the sun. With that our trip has come to an end. Martynas stayed for a conference in San Diego and I headed home which we now call Zurich.
